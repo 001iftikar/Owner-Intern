@@ -8,15 +8,15 @@ The app allows the owner to activate destinations and manage booking requests in
 ## Features
 - **Search And Browse Destinations**
   - Owner can search for destinations
-    <img src="images/Search.jpg" alt="Teachers Screen" width="20%"/>
+  <img src="images/Search.jpg" alt="Teachers Screen" width="20%"/>
 - **Activate Destinations**
   - If the owner selects a destination it will be opened and marked as **Active**.
 - **Receive Booking Requests**
   - Booking requests appear instantly when users book an active destination.
-    <img src="images/Chats.jpg" alt="Teachers Screen" width="20%"/>
+  <img src="images/Chats.jpg" alt="Teachers Screen" width="20%"/>
 - **Accept / Reject Requests**
   - Owner can accept or reject booking requests.
-    <img src="images/Accept.jpg" alt="Teachers Screen" width="20%"/>
+  <img src="images/Accept.jpg" alt="Teachers Screen" width="20%"/>
 - **Instant Sync**
   - Booking decisions update instantly on the Customer App.
 - **Background Handling**
